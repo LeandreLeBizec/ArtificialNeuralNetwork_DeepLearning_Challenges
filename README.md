@@ -80,6 +80,6 @@ This project focused on pixel-level segmentation of Martian terrain into 5 class
 ## Repository Structure
 - **`Challenge1/`**: Contains code, data preprocessing scripts, and trained models for the blood cell classification project.
 - **`Challenge2/`**: Includes scripts for data cleaning, model development, and ensemble learning for the segmentation task.
-
+- **`Labs/`**: Contains the work realized in labs session.
 ---
 
